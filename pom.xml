@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Formation_TDD01_03_05_2021</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>KATAS</artifactId>
+    <version>1.0</version>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
